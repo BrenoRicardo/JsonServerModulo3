@@ -1,0 +1,97 @@
+{
+    "Mouse": [
+        {
+            "id": 1,
+            "marca": "Logitech",
+            "Preco": 139.99,
+            "Rating": 4.9,
+            "Estoque": 30,
+            "Cor": "Preto",
+            "Led": "RGB"
+        },
+        {
+            "id": 2,
+            "marca": "HyperX",
+            "Preco": 189.99,
+            "Rating": 4.8,
+            "Estoque": 12,
+            "Cor": "Preto",
+            "Led": "Vermelho"
+        },
+        {
+            "id": 3,
+            "marca": "Razer",
+            "Preco": 339.99,
+            "Rating": 5.0,
+            "Estoque": 8,
+            "Cor": "Preto",
+            "Led": "Verde"
+        }
+    ],
+    "Teclado": [
+        {
+            "id": 1,
+            "marca": "Multilaser",
+            "Preco": 49.90,
+            "Rating": 3.6,
+            "Estoque": 15,
+            "Cor": "Preto",
+            "Led": "Sem Led",
+            "Tipo": "Membrana"
+        },
+        {
+            "id": 2,
+            "marca": "Logitech",
+            "Preco": 179.90,
+            "Rating": 4.6,
+            "Estoque": 15,
+            "Cor": "Preto",
+            "Led": "Azul",
+            "Tipo": "Mecânico"
+        },
+        {
+            "id": 3,
+            "marca": "HyperX",
+            "Preco": 289.90,
+            "Rating": 4.8,
+            "Estoque": 12,
+            "Cor": "Preto",
+            "Led": "Vermelho",
+            "Tipo": "Mecânico"
+        },
+        {
+            "id": 4,
+            "marca": "Razer",
+            "Preco": 699.90,
+            "Rating": 4.3,
+            "Estoque": 5,
+            "Cor": "Preto",
+            "Led": "RGB",
+            "Tipo": "Mecânico"
+        }
+    ],
+    "Computadores": [
+        {
+            "id": 1,
+            "Processador": "Ryzen 3 1200",
+            "Placa-mae": "ASUS B350",
+            "Memoria": "8GB",
+            "Placa-de-video": "GTX 1050TI",
+            "Armazenamento": "500GB SSD NVME",
+            "Fonte": "PcYes 500w",
+            "Gabinete": "Gabinete Gamer Redragon Wideload",
+            "Preco": 2799
+        },
+        {
+            "id": 2,
+            "Processador": "Intel I5 10400",
+            "Placa-mae": "H510",
+            "Memoria": "16GB",
+            "Placa-de-video": "RTX 3060",
+            "Armazenamento": "1TB SSD NVME",
+            "Fonte": "Corsair 500w",
+            "Gabinete": "Gabinete Gamer Redragon Wideload",
+            "Preco": 6799
+        }
+    ]
+}
